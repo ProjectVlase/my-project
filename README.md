@@ -1,4 +1,5 @@
 # MyProject
+```sh
 node -v
 npm -v
 npm version
@@ -12,6 +13,8 @@ cd my-project
 ng serve
 ng serve --port 9999
 ng --help
+```
+
 
 
 ---
